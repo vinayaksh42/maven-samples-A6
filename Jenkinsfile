@@ -4,5 +4,4 @@ pipeline {
       maven 'Maven3.9.6' 
       jdk 'Java11' 
   }
-  }
 }
