@@ -1,8 +1,8 @@
 pipeline {
   agent any
   tools { 
-      maven 'DHT_MVN' 
-      jdk 'DHT_SENSE' 
+      maven 'Maven3.9.6' 
+      jdk 'Java11' 
   }
   }
 }
